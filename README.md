@@ -1,12 +1,6 @@
-👋 Hi, I’m @Areeba13y  
-- 👀 I’m interested in software development, data structures, and creating innovative solutions.  
-- 🌱 I’m currently learning Go (Golang) and exploring digital image processing.  
-- 💞️ I’m looking to collaborate on projects involving Java, Python, or Go, especially in backend development, APIs, and secure coding practices.  
-- 📫 How to reach me: aribamyasir13@gmail.com  
-- 😄 Pronouns: She/Her  
-- ⚡ Fun fact: I love math and playing cricket, and I’m always up for learning new technologies!  
-
-<!---
-Areeba13y/Areeba13y is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👀 I'm interested in cybersecurity (Blue Team), data analytics, web development, and building secure innovative solutions.
+🌱 I'm currently learning ethical hacking, network defense, SIEM tools, and exploring threat detection & incident response.
+💞️ I'm looking to collaborate on projects involving cybersecurity, Laravel, Python, or data analysis — especially in secure coding, blue team defense, APIs, and backend development.
+📫 How to reach me: areebayasir28@gmail.com
+😄 Pronouns: She/Her
+⚡ Fun fact: I love math, playing cricket, and I'm always up for learning new technologies — from SQL injection testing to log analysis! 🔐
